@@ -1,3 +1,12 @@
+cups-pk-helper (0.2.6-1ubuntu3+grm2u1) cosmic; urgency=medium
+
+  [ jongkyung.woo ]
+  * [a42732c2] Rebuild on Gooroom 2.0
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 06 Jul 2020 12:46:30 +0900
+
 cups-pk-helper (0.2.6-1ubuntu3) cosmic; urgency=medium
 
   * debian/cups-pk-helper.postinst: Do not add cups-pk-helper group, make
